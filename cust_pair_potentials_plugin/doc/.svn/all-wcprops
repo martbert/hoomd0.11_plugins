@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/doc
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/doc/Doxyfile.in
+END
+DoxygenLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/doc/DoxygenLayout.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/doc/CMakeLists.txt
+END

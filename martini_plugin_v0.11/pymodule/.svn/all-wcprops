@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/pymodule
+END
+pair.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/pymodule/pair.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/pymodule/__init__.py
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/pymodule/CMakeLists.txt
+END

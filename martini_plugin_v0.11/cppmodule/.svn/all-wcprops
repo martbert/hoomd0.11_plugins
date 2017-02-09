@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule
+END
+AllDriverPotentialPairExtGPU.cu
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/AllDriverPotentialPairExtGPU.cu
+END
+module.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/module.cc
+END
+AllDriverPotentialPairExtGPU.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/AllDriverPotentialPairExtGPU.cuh
+END
+EvaluatorPairLJ2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/EvaluatorPairLJ2.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/CMakeLists.txt
+END
+AllPairExtPotentials.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hoomd-blue/svn/!svn/ver/3981/trunk/share/hoomd/plugin_template_pair_ext/cppmodule/AllPairExtPotentials.h
+END
